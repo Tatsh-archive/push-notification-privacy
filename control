@@ -1,7 +1,7 @@
 Package: sh.tat.smsprivacy
 Name: Push Notification Privacy
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.1.0
 Architecture: iphoneos-arm
 Description: Never show previews for any notification while device is locked.
 Maintainer: Tatsh
