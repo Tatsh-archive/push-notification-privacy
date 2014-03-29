@@ -5,7 +5,6 @@
 %hook BBBulletin
 - (_Bool)showsMessagePreview {
     if ([(SpringBoard *)[UIApplication sharedApplication] isLocked]) {
-        NSLog(@"isLocked = true?");
         return NO;
     }
 
